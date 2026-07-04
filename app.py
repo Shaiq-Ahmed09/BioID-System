@@ -56,7 +56,7 @@ class FaceScannerApp(ctk.CTk):
         self.sidebar = ctk.CTkFrame(self, width=280, corner_radius=0, fg_color="#040a12")
         self.sidebar.pack(side="left", fill="y")
 
-        self.title_label = ctk.CTkLabel(self.sidebar, text="MATRIX OS V4.0", font=ctk.CTkFont(family="Courier", size=20, weight="bold"), text_color="#00ff66")
+        self.title_label = ctk.CTkLabel(self.sidebar, text="BioID System V4.0", font=ctk.CTkFont(family="Courier", size=20, weight="bold"), text_color="#00ff66")
         self.title_label.pack(padx=20, pady=(30, 10))
         
         self.subtitle_label = ctk.CTkLabel(self.sidebar, text="--- BIOMETRIC LINK ---", font=ctk.CTkFont(family="Courier", size=11), text_color="#00aa44")
