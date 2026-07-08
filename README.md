@@ -31,3 +31,4 @@ python app.py
 - UI Engine: CustomTkinter & PIL (Pillow)
 
 - Data Vectors: NumPy
+
