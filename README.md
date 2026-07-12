@@ -1,6 +1,6 @@
 # BioID System: Facial Recognition Terminal
 
-BioID System is a high-performance, cyberpunk-themed real-time facial recognition terminal built in Python. It utilizes **OpenCV's LBPH (Local Binary Patterns Histograms)** algorithm for texture-based biometric matching, wrapped inside a hardware-accelerated, high-DPI desktop interface powered by **CustomTkinter**. 
+BioID System is a high-performance, cyberpunk-themed real-time facial recognition terminal built in Python. It utilizes **OpenCV's LBPH (Local Binary Patterns Histograms)** algorithm for texture-based biometric matching, wrapped inside a hardware-accelerated, high-DPI desktop interface powered by **CustomTkinter**.
 
 Designed for low latency and high aesthetic appeal, the terminal features a live hacker-style log feed, predictive HUD targeting brackets, and automated scanning state lockdowns.
 
