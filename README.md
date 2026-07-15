@@ -38,3 +38,4 @@ python app.py
 
 - Data Vectors: NumPy
 
+**NOTE: You need to upload a picture of yourself manually inside the folder named "Known_Faces". Will bring updates for uploading form UI in the app soon**
