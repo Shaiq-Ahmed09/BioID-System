@@ -30,6 +30,7 @@ python app.py
 ---
 
 # Tech Stack
+
 - Core Runtime: Python 3.x
 
 - Computer Vision: OpenCV (cv2)
