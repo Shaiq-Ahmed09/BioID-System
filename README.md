@@ -4,7 +4,6 @@ BioID System is a high-performance, cyberpunk-themed real-time facial recognitio
 
 Designed for low latency and high aesthetic appeal, the terminal features a live hacker-style log feed, predictive HUD targeting brackets, and automated scanning state lockdowns.
 
-
 ---
 
 ### Core Features
